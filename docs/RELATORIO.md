@@ -1,7 +1,7 @@
 # Relatório — Laboratório Estatístico Interativo
 
-**Nome completo:** [SEU NOME COMPLETO AQUI]
-**Matrícula:** [SUA MATRÍCULA AQUI]
+**Nome completo:** [Ricardo da Silva Mariano]
+**Matrícula:** [72601408]
 
 ---
 
